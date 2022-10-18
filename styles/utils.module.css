@@ -50,3 +50,8 @@
 .lightText {
   color: #666;
 }
+.link {
+  color: #0055ff;
+  font-weight: 500;
+  text-decoration: underline;
+}
